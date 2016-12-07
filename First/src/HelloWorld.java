@@ -8,6 +8,6 @@ public class HelloWorld {
 		HelloWorld message= new HelloWorld();
 		message.print();
 		}
-	
+	int x;
 	
 }
