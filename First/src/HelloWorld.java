@@ -9,5 +9,5 @@ public class HelloWorld {
 		message.print();
 		}
 	
-	int y;
+
 }
